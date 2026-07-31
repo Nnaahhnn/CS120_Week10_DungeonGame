@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\free4\\OneDrive\\Documents\\VS Projects\\CS120\\CS120_Week10_DungeonGame\\Src\\DungeonGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD11FEB-4029-C990-CC06-073D3C7D753E}|DungeonGame.vbproj|c:\\users\\free4\\onedrive\\documents\\vs projects\\cs120\\cs120_week10_dungeongame\\src\\dungeongame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD11FEB-4029-C990-CC06-073D3C7D753E}|DungeonGame.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD11FEB-4029-C990-CC06-073D3C7D753E}|DungeonGame.vbproj|c:\\users\\free4\\onedrive\\documents\\vs projects\\cs120\\cs120_week10_dungeongame\\src\\dungeongame\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5CD11FEB-4029-C990-CC06-073D3C7D753E}|DungeonGame.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\free4\\OneDrive\\Documents\\VS Projects\\CS120\\CS120_Week10_DungeonGame\\Src\\DungeonGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\free4\\OneDrive\\Documents\\VS Projects\\CS120\\CS120_Week10_DungeonGame\\Src\\DungeonGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-28T05:10:40.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\free4\\OneDrive\\Documents\\VS Projects\\CS120\\CS120_Week10_DungeonGame\\Src\\DungeonGame\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\free4\\OneDrive\\Documents\\VS Projects\\CS120\\CS120_Week10_DungeonGame\\Src\\DungeonGame\\MainWindow.xaml.vb",
+              "RelativeToolTip": "MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-28T05:10:34.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
