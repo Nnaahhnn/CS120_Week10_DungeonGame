@@ -41,7 +41,7 @@ Requirement | Location | Evidence
 
 4. Adaptation Decisions | docs/Development Document.md | Reference "Reference study and adaptation" portion in Development Document.md
 
-5. Prepared Assets | Assets/Asset Manifest and images
+5. Prepared Assets | Assets/images
 
 6. Readiness Review and Discord Proof | evidence/Discord/ DiscordProof.png
 
