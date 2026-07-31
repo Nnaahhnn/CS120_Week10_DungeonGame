@@ -8,14 +8,9 @@ FireWall breach is a simple Brick break style game that is used in the world as 
 
 **Week 10**
 
-
-
 CIS 120
-
 Week 10
-
 Hernan Esparza
-
 
 
 **How To Run game**
